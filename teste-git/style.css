@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+p{
+    text-align: left;
+    border-radius: 35px;
+    border: 2px solid green;
+    padding: 15px;
+}
+
