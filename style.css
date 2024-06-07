@@ -15,7 +15,7 @@ body{
 p{
     text-align: left;
     border-radius: 35px;
-    border: 2px solid green;
+    border: 3px dotted green;
     padding: 15px 20px;
     width: 80vw;
     margin: 20px auto;
