@@ -1,7 +1,9 @@
 :root{
     --fundo-1: rgba(128, 128, 128, 0.7);
     --fundo-2: white;
-    --estilo: bold;
+    --estilo-bold: bold;
+    --estilo-italic: italic;
+    --cor: blue;
 }
 
 body{
@@ -21,10 +23,12 @@ p{
 
 #fundo_1{
     background-color: var(--fundo-1);
-    font-weight: var(--estilo);
+    font-weight: var(--estilo-bold);
 }
 
 #fundo_2{
     background-color: var(--fundo-2);
+    color: var(--cor);
+    font-style: var(--estilo-italic);
 }
 
